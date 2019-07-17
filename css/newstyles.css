@@ -1,0 +1,16 @@
+/*change the color of the footer*/
+.footer {
+    background-color: #ffbb33 !important;
+  }
+
+/*change the color of the scrollspy*/
+  #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+    color: #fff;
+    background: #cc0000 !important;
+  }
+
+/*highlighting the links in the nav-bar when hovered over*/
+ #mainNav .navbar-nav li.nav-item a:hover {
+    color: #000000 !important;
+    text-decoration: underline overline;
+  }
